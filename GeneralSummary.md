@@ -13,25 +13,19 @@ At its core, book 1 is really "A tale of two Eydises" (awkward plural lol). You 
 In your climax, you fail to pull these two narratives together in any satisfying way.
 * Lurr-Eydis has the strongest presence in the entire last half of the book, especially the climactic scenes. I got the impression you were building toward a bait & switch where she becomes the main character, and I legitimately dreaded this possibility because the way you introduced her arc coded her as an antagonist to Elf-Eydis, who had been coded as the protagonist.
 	* You can still tell a fantastic story of these two princesses being antagonistic, but the way you've done it in this draft, you spend too much time on Elf-Eydis before Lurr-Eydis really gains any depth.
-* Justin is completely absent from the final confrontation, so all that time we spent with him and his friends learning magic is completely wasted space as far as a "book one" goes. In this current draft, he's one of the MCs. You can't sideline him in the final act.
-
-### Granular critique of your plot curve
-I wrote a separate document critiquing the plot curve as it is (It's just a critique. No suggestions). It's mostly just my personal justification for the conclusions I've drawn.
-
-* [Plot & Pacing Critique](https://github.com/csmerrell/CollisionFeedback/blob/main/Plot%26Pacing.md)
+* Justin is completely absent from the final confrontation, so all that time we spent with him and his friends learning magic is completely wasted space as far as a "book one" goes. In this current draft, he's one of the MCs. You can't sideline him in the final act after spending as much time on him as you did.
 
 ## My suggested strategy for revisions
 
 ### Retune the plot to make the dual-Eydis arc the core story
-Lurr Eydis arguably has your strongest character arc, but it's hampered way too much by the way you introduced her.
+Lurr Eydis is basically your strongest character arc, but it's hampered way too much by the way you introduced her (too late, and too slow, and her real development still doesn't start until her third chapter, iirc).
 1. Make Lurr-Eydis a dual-MC right out of the gate. I'd actually give chapter 1 to her.
 	* More details in the character document: [Lurr Eydis](https://github.com/csmerrell/CollisionFeedback/blob/main/Characters.md#lurr-eydis).
 2. Rethink Elf-Eydis' arc to make her more proactive, rather than reactive.
 	* More details in the character document: [Elf Eydis](https://github.com/csmerrell/CollisionFeedback/blob/main/Characters.md#elf-eydis).
 3. Make Justin a side character ---> Introduce him later. Reduce Eydis' immediate, almost irrational attachment to him, and convert it to a slow-burn development of trust.
-	* More details in the character document: [Justin](https://github.com/csmerrell/CollisionFeedback/blob/main/Characters.md#justin)
 
-### Scenes that you should definitely keep:
+### Highlight scenes/subplots: (thinks to try and keep)
 * (Prologue) Jethro kills Eydis' family
 * Lurr-Eydis feeds the Lurr and discovers what she is.
 	* I would space this out more. Details in her character subsection.
@@ -43,6 +37,15 @@ Lurr Eydis arguably has your strongest character arc, but it's hampered way too 
 * Lots of Elf-eydis' scenes are still very useful, but I think you'd have to integrate them into different scenes with the way I'd recommend retuning her side of the story.
 	* Details in [Elf Eydis](https://github.com/csmerrell/CollisionFeedback/blob/main/Characters.md#elf-eydis) character subsection.
 
+### Weakest scenes/subplots: (thinks to remove/refactor)
+* Multiple language barrier chapters
+	* This took long, and honestly the use of old-anglo-saxon felt anticlimactic/insufficient after how much time you spent on it. It stretched my suspesion of disbelief. 
+		* Speed this up. Connecting their language to old-anglo-saxon won't feel as hand-wavy if you just wave it away faster and move on.
+* The mage training in our world.
+	* It felt organic and fun, but ultimately didn't build up enough to earn its place in book 1's narrative.
+* The ending.
+	* The ending in and of itself isn't bad, but it's a horrible place to stop. Your novel has to resolve its tension curve. It can have loose ends, but it has to resolve the bulk of its existing tension before it frays out slightly into book 2's loose ends.
+	* You need to retune a bit, then write some cleanup chapters and tie some kind of bow on things.
+
 ## Document Appendix:
-* [Plot & Pacing Critique](https://github.com/csmerrell/CollisionFeedback/blob/main/Plot%26Pacing.md)
 * [Characters](https://github.com/csmerrell/CollisionFeedback/blob/main/Characters.md)
